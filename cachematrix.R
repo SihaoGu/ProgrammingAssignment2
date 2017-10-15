@@ -1,4 +1,3 @@
-## SHA-1 hash identifier bdb4eebb22a84cc49174dd0a62571bda6f6f1c28
 ## The first function, makeVector creates a special "vector", which
 ##is really a list containing a function to
 ##1.set the value of the vector
